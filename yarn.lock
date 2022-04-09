@@ -1780,10 +1780,10 @@ cordova-plugin-inappbrowser@^3.0.0:
   resolved "https://registry.yarnpkg.com/cordova-plugin-inappbrowser/-/cordova-plugin-inappbrowser-3.0.0.tgz#d4ae00d36676210751057ad258ae4ad4a9161ada"
   integrity sha1-1K4A02Z2IQdRBXrSWK5K1KkWGto=
 
-cordova-plugin-qrscanner@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/cordova-plugin-qrscanner/-/cordova-plugin-qrscanner-2.6.0.tgz#e981be29d024cb37c11e28bbee87ba2544a29e2a"
-  integrity sha512-bgy+cG0HdpuSW/JxHDFQYaO46Ma8nYTjwduhhWhMmuYeljozqQ4RJcwhJQaxHnjuDi3XDz+rHkszOEOhlSG23w==
+cordova-plugin-qrscanner@^2.6.1:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/cordova-plugin-qrscanner/-/cordova-plugin-qrscanner-2.6.2.tgz#85935dc5585b0ac0ec79c798f572f5875adde8b9"
+  integrity sha512-wUdgNgjDMNQPFEi47Ft3SRFD8eIS8pCnnIijzIRZaoVj/nhixfI/Dtna8u3IYPX4lOMdlo9GX4/7lz/Q6C0Yhw==
   dependencies:
     qrcode-reader "^1.0.4"
     webrtc-adapter "^3.1.4"
@@ -3940,10 +3940,10 @@ mocha@5.2.0:
     mkdirp "0.5.1"
     supports-color "5.4.0"
 
-moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+moment@^2.29.2:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 ms@2.0.0:
   version "2.0.0"
